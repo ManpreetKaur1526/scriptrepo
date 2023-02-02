@@ -1,1 +1,1 @@
-new -azresourcegroup -name "reporg" -location "Australia East"
+new -azresourcegroup -name "reporg" -location "westus"
